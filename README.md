@@ -2,7 +2,7 @@
 <h1>Projeto de uma calculadora de IMC utilizando Javascript.</h1>
 
 <div>
-  <p> Este é um projeto que eu elaborei como parte da disciplina de Construcão de Software para Web, 
+  <p> Este é um projeto que eu elaborei como parte da disciplina de Contrução de Software para Web, 
     neste eu desenvolvi uma calculadora de IMC utilizando JavaScript.</p>
 <div/>
  
